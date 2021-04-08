@@ -4,7 +4,7 @@ BacARscan that can detect, predict and characterize ARGs in functional metagenom
 
 ***********How to use it? **************
 
-######Files description#####
+**Files description:**
 
 nARGhmm: Library of 254 nucleotide ARG HMMs
 
