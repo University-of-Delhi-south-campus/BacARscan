@@ -20,6 +20,10 @@ HMMER download and install as standalone using link: http://hmmer.org/download.h
 
 /hmmer-3.1b2-linux-intel-x86_64/src/nhmmscan --cpu 4 -E 0.000001 --tblout abc.out nARGhmm gene.fasta &
 
-Using above commands user can scan their protein and nucleotide sequences; upon search it will give the similarity score and e-value. Depending on the scores user can select hits and retrieve their complete annotation using “ARG_Annotations” file.
+Using above commands user can scan their protein and nucleotide sequences; upon search it will give the similarity score and e-value. Depending upon the scores user can select hits and retrieve their complete annotation using “ARG_Annotations” file.
+
+**Sorting the hmmscan output file on the basis of evalue: 
+command: sort -k5,5g hmmscan.output_file_name|sort -u -k1,1 >output**
+
 
 Visit our website for latest version, Executable versions, source code, profile HMMs, annotations, seed sequences and usage instructions can be downloaded from http://proteininformatics.org/mkumar/bacarscan/
