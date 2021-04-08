@@ -12,11 +12,11 @@ pARGhmm: Library of 254 protein ARG HMMs ARG_Annotations: Annotation of 254 prof
 
 HMMER download and install as standalone using link: http://hmmer.org/download.html
 
-Scanning of protein sequences will perform using hmmscan
+**Scanning of protein sequences will perform using hmmscan**
 
 “/hmmer-3.1b2-linux-intel-x86_64/src/hmmscan --cpu 4 -E 0.000001 --tblout abc.out pARGhmm protein.fasta”
 
-Scanning of gene sequences will perform using nhmmscan**
+**Scanning of gene sequences will perform using nhmmscan**
 
 /hmmer-3.1b2-linux-intel-x86_64/src/nhmmscan --cpu 4 -E 0.000001 --tblout abc.out nARGhmm gene.fasta &
 
