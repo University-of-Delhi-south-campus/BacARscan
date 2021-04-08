@@ -27,4 +27,5 @@ Using above commands user can scan their protein and nucleotide sequences; upon 
 **command: sort -k5,5g hmmscan.output_file_name|sort -u -k1,1 >output**
 
 
-Visit our website for latest version, Executable versions, source code, profile HMMs, annotations, seed sequences and usage instructions can be downloaded from http://proteininformatics.org/mkumar/bacarscan/
+Visit our website for latest version, executable versions, source c[TableS3.xlsx](https://github.com/University-of-Delhi-south-campus/BacARscan/files/6277701/TableS3.xlsx)
+ode, profile HMMs, annotations, seed sequences and usage instructions can be downloaded from http://proteininformatics.org/mkumar/bacarscan/
