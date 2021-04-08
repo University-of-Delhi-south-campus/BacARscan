@@ -22,7 +22,7 @@ HMMER download and install as standalone using link: http://hmmer.org/download.h
 
 Using above commands user can scan their protein and nucleotide sequences; upon search it will give the similarity score and e-value. Depending upon the scores user can select hits and retrieve their complete annotation using “ARG_Annotations” file.
 
-**Sorting the hmmscan output file on the basis of evalue: 
+**Sorting the hmmscan output file on the basis of evalue:** 
 
 **command: sort -k5,5g hmmscan.output_file_name|sort -u -k1,1 >output**
 
