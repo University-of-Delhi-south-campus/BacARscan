@@ -1,6 +1,7 @@
-# BacARscan: a Hidden Markov model based framework to discern diversity of antibiotic resistance genes in –omics datasets
+# BacARscan: an in-silico resource to discern diversity in antibiotic resistance genes
 
-BacARscan that can detect, predict and characterize ARGs in functional metagenomics data, including short sequencing reads and fragmented contigs. It is anticipated that this ability of BacARscan would be helpful in rapid monitoring, characterization and surveillance of ARG repertoire in bacterial communities at an early stage of infection/outbreak. We also expect that BacARscan would be helpful to the scientific community for quick monitoring of ARGs in a microbial population. 
+Bacterial Antibiotic Resistance scan (BacARscan)(http://proteininformatics.org/mkumar/bacarscan/) that can detect, predict and characterize ARGs in -omics datasets, including short sequencing, reads, and fragmented contigs. Benchmarking on an independent non-redundant data set revealed that the performance of BacARscan was better than
+other existing methods with ca. 92% precision and 95% F-measure on a combined dataset of ARG and nonARG proteins. One of the most notable improvements of BacARscan over other ARG annotation methods is its ability to work on genomes and small reads sequence libraries with equal efficiency and without any requirement for assembly of short reads. Thus, BacARscan can be helpful in monitoring the prevalence and diversity of ARGs in microbial populations and metagenomics samples from animal, human and environmental settings. 
 
 ***********How to use it? **************
 
