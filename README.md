@@ -3,12 +3,14 @@
 
 # Bacterial Antibiotic Resistance scan
 
-# In-silico resource to discern diversity in antibiotic ![Graphical_Abstarct](https://user-images.githubusercontent.com/43174322/174740309-19892e36-7004-40a7-aff1-7f9af309346a.png)
-resistance genes
+# In-silico resource to discern diversity in antibiotic resistance genes
 
 Created by the Computational Biology Lab at Department of Biophysics, University of Delhi South Campus
 
 Developer: Deeksha Pandey (deeksha.pandey.biophysics@south.du.ac.in)
+
+[Graphical_Abstarct]
+(https://user-images.githubusercontent.com/43174322/174740309-19892e36-7004-40a7-aff1-7f9af309346a.png)
 
 # Description
 Bacterial Antibiotic Resistance scan (BacARscan) (http://proteininformatics.org/mkumar/bacarscan/) that can detect, predict and characterize ARGs in -omics datasets, including short sequencing, reads, and fragmented contigs. Benchmarking on an independent non-redundant data set revealed that the performance of BacARscan was better than other existing methods with ca. 92% precision and 95% F-measure on a combined dataset of ARG and nonARG proteins. One of the most notable improvements of BacARscan over other ARG annotation methods is its ability to work on genomes and small reads sequence libraries with equal efficiency and without any requirement for assembly of short reads. Thus, BacARscan can be helpful in monitoring the prevalence and diversity of ARGs in microbial populations and metagenomics samples from animal, human and environmental settings. 
