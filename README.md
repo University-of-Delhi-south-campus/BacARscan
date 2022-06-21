@@ -43,4 +43,16 @@ Using above commands user can scan their protein and nucleotide sequences; upon 
 
 The BacARscan contained 254 ARG models.
 
-Visit our website for latest version, Executable versions, source code, profile HMMs, annotations, seed sequences and usage instructions can be downloaded from http://proteininformatics.org/mkumar/bacarscan/
+# Annotation description
+
+The BacARscan models have been annotated with diffrent fileds:
+
+Antibiotic Class: annotation at the class level describes the class of antibiotics to which this entry confers resistance (e.g. tetracyclines, betalactams)
+Antimicrobial Spectrum: The antimicrobial spectrum of an antibiotic means the range of microorganisms it can kill or inhibit. Antibiotics can be divided into broad-spectrum antibiotics, extended-spectrum antibiotics and narrow-spectrum antibiotics based on their spectrum of activity.
+Resistance Mechanism: annotation at the mechanism level describes the molecular function that confers resistance to a given antibiotic class (e.g. Class D betalactamases, efflux etc.)
+AMR Family: annotation at the family level describes the gene or protein group under which this entry falls (e.g. OXA betalactamase, Small multidrug resistance (SMR) protein family)
+ID: this option describes the name and ID of the BacARscan model, constructed from sequences and unique id of the HMM model.
+AMR Function: this option describes the detailed functional infromation of the ARGs.
+AMR Protein names: this option describes the name of the AR protein or gene (e.g. Multidrug transporter EmrE (Efflux-multidrug resistance protein EmrE) (Ethidium resistance protein) (Methyl viologen resistance protein C)
+
+Annotations for all model sets can be visit our website for latest version, Executable versions, source code, profile HMMs, annotations, seed sequences and usage instructions can be downloaded from http://proteininformatics.org/mkumar/bacarscan/
