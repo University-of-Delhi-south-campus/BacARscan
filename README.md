@@ -3,7 +3,8 @@
 
 # Bacterial Antibiotic Resistance scan
 
-# In-silico resource to discern diversity in antibiotic resistance genes
+# In-silico resource to discern diversity in antibiotic ![Graphical_Abstarct](https://user-images.githubusercontent.com/43174322/174740309-19892e36-7004-40a7-aff1-7f9af309346a.png)
+resistance genes
 
 Created by the Computational Biology Lab at Department of Biophysics, University of Delhi South Campus
 
